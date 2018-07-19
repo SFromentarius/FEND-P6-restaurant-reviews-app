@@ -13,8 +13,8 @@ For the **Restaurant Reviews** projects, we had to will incrementally convert a 
 
 3. With your server running, visit the site: `http://localhost:8000` : here is the website!
 
-### Leaflet.js and Mapbox:
+### External references:
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). 
 
-
+As external course content, you can make use of the the article of [Paul Kinlan](https://developers.google.com/web/resources/contributors/paulkinlan) about [Adding a Service Worker and Offline into your Web App](https://developers.google.com/web/fundamentals/codelabs/offline/).
