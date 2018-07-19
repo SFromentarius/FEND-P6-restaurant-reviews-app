@@ -10,7 +10,7 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 
 2. With your server running, visit the site: `http://localhost:8000` : here is the website!
 
-## Leaflet.js and Mapbox:
+### Leaflet.js and Mapbox:
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). 
 
