@@ -17,4 +17,4 @@ For the **Restaurant Reviews** projects, we had to will incrementally convert a 
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). 
 
-As external course content, you can make use of the the article of [Paul Kinlan](https://developers.google.com/web/resources/contributors/paulkinlan) about [Adding a Service Worker and Offline into your Web App](https://developers.google.com/web/fundamentals/codelabs/offline/).
+As external course content, you can take a look at the article of [Paul Kinlan](https://developers.google.com/web/resources/contributors/paulkinlan) about [Adding a Service Worker and Offline into your Web App](https://developers.google.com/web/fundamentals/codelabs/offline/).
